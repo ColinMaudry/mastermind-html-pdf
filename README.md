@@ -12,7 +12,7 @@ Pour créer son code, le sorcier a à sa disposition 6 symboles. Voici quelques 
 - 1, 2, 3, 4, 5, 6
 - A, B, C, D, E, F
 
-Le code créé par le sorcier doit comporter 4 symboles différents parmi l'ensemble de 6 symboles convenu avec l'apprenti. Le code doit être dissimulé à l'apprenti.
+Le code créé par le sorcier doit comporter 4 symboles différents parmi l'ensemble de 6 symboles convenu avec l'apprenti. Le code doit être écrit sur un papier hors du plateau et dissimulé à l'apprenti.
 
 Objectif de l'apprenti : deviner le code du sorcier en 10 tours ou moins.
 
