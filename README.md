@@ -20,7 +20,7 @@ Objectif de l'apprenti : deviner le code du sorcier en 10 tours ou moins.
 
 - l'apprenti fait une tentative en proposant une combinaison de 4 symboles
 - le sorcier annote la tentative, en indiquant :
-  - dans la colonne **⬄** : le nombre de pions présents dans le code, mais mal placés dans la tentative
-  - dans la colonne **ok** : le nombre de pions bien placés
+  - dans la colonne **⬄** : le nombre de symboles présents dans le code, mais mal placés dans la tentative
+  - dans la colonne **ok** : le nombre de symboles bien placés
 
 [Télécharger deux plateaux de jeu à imprimer](https://github.com/ColinMaudry/mastermind-html-pdf/raw/master/mastermind.pdf).
