@@ -1,0 +1,44 @@
+@media print {
+    @page {
+        size: A4 landscape;
+    }
+    
+}
+
+body > div {
+    width:50%;
+    float: left;
+}
+
+table.intents {
+    margin: auto;
+    border: double #333 8px;
+    width: 60%;
+    border-collapse: collapse;
+}
+
+tr {
+    margin: 6px
+}
+
+tbody td {
+    height: 1.2cm;
+    width: 1.2cm;
+    border: solid #ccc 1px;
+}
+
+thead {
+    border: none;
+    font-size: 16pt;
+    text-align: center;
+    line-height: 28pt;
+    font-family: sans-serif;
+}
+
+td.misplaced, td.ok {
+    border: solid 2px #666;
+}
+
+td.misplaced {
+    font-size: 1.5em;
+}
