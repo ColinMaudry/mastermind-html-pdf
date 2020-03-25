@@ -7,12 +7,12 @@ Le jeu de Mastermind se joue à deux :
 
 > Par simplicité, les directives suivantes se veulent volontairement directes et inflexibles, mais elles peuvent tout à fait être adaptées par les joueurs, par exemple pour ajuster la difficulté (ex : nombre de symboles possibles, possibilité pour le sorcier d'utiliser un symbole deux fois dans le code)
 
-Pour créer son code, le sorcier a à sa disposition 6 symboles. Voici quelques suggestions, mais libre à vous d'en utiliser d'autres :
+Pour créer son code, le sorcier dispose de 6 symboles. Voici quelques suggestions :
 
 - 1, 2, 3, 4, 5, 6
 - A, B, C, D, E, F
 
-Le code créé par le sorcier doit comporter 4 symboles différents parmi l'ensemble de 6 symboles convenu avec l'apprenti. Le code doit être écrit sur un papier hors du plateau et dissimulé à l'apprenti.
+Le code créé par le sorcier doit comporter 4 symboles différents parmi l'ensemble de 6 symboles convenu avec l'apprenti. Le sorcier écrit le code sur un papier hors du plateau et le dissimule à l'apprenti.
 
 Objectif de l'apprenti : deviner le code du sorcier en 10 tours ou moins.
 
@@ -23,4 +23,4 @@ Objectif de l'apprenti : deviner le code du sorcier en 10 tours ou moins.
   - dans la colonne **⬄** : le nombre de pions présents dans le code, mais mal placés dans la tentative
   - dans la colonne **ok** : le nombre de pions bien placés
 
-  Télécharger deux plateaux de jeu à imprimer.
+[Télécharger deux plateaux de jeu à imprimer](https://github.com/ColinMaudry/mastermind-html-pdf/raw/master/mastermind.pdf).
